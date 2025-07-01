@@ -11,7 +11,7 @@
    - Godot game development  
    - Graphic design using Photoshop or IbisPaint  
 
-- 📫 How to reach me: **Ekskie05@gmail.com**  
+- 📫 How to reach me: **dennrick05@gmail.com**  
 
 - ⚡ Fun fact: I design, code, and create game art — all fueled by Passion  
 
