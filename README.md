@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dennrick Agustin (Ekskie)</h1>
-<h3 align="center">Student | Aspiring Web & Game Developer | Graphics Designer</h3>
+<h3 align="center">Student | Web & Game Developer | Graphics Designer</h3>
 
 - 🔭 I’m currently working on:  
-   - A 2D puzzle-exploration game in Godot 4.3  
+   - A 2D puzzle-exploration game in Godot 4.5  
    - Web apps using Flask and Supabase
      
 - 💬 Ask me about:  
