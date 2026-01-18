@@ -3,7 +3,7 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;+I'm+Dennrick+Agustin+(Ekskie);+Web+%26+Game+Developer;Graphics+Designer+)](https://git.io/typing-svg)
 
-<h3 align="center">👨‍💻 Student | Web & Game Developer | Graphics Designer 🎨</h3>
+<h3 align="center">Web & Game Developer | Graphics Designer</h3>
 
 <p align="center">
 I am a passionate developer who bridges the gap between <b>logic and creativity</b>.<br/>
@@ -26,10 +26,10 @@ I design, code, and create game art to build immersive digital experiences.
 
 <div align="center">
 
-## 🔭 Current Focus
+## 🔭 Current Work Focus
 
 🎮 **Game Development**  
-Developing a 2D puzzle-exploration game using **Godot 4.5**
+Developing a game using **Godot 4.5**
 
 🌐 **Web Development**  
 Building full-stack web applications with **Flask (Python)** and **Supabase**
