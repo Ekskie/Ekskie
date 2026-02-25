@@ -28,11 +28,11 @@ I design, code, and create game art to build immersive digital experiences.
 
 ## 🔭 Current Work Focus
 
-🎮 **Game Development**  
-Developing a game using **Godot 4.5**
+🎮 **On Job Training**  
+Developing a Website in **Zkript Company**
 
 🌐 **Web Development**  
-Building full-stack web applications with **Flask (Python)** and **Supabase**
+Building full-stack web applications with **React** and **NestJs**
 
 ---
 
